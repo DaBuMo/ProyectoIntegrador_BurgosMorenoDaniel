@@ -1,0 +1,11 @@
+.buen_fondo
+{
+    background-color: #161618; --bs-border-opacity: .5;
+}
+p
+{
+    font-size: 10px;
+}
+.letra_titulo{
+    font-size: 15px;
+}
