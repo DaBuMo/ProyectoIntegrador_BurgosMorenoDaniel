@@ -20,6 +20,8 @@ import { LoginComponent } from './components/login/login.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { RedesComponent } from './components/redes/redes.component';
+import { HomeComponent } from './components/home/home.component';
+import { LoginEnterComponent } from './components/login-enter/login-enter.component';
 // Agregamos el Http Client
 
 
@@ -42,6 +44,8 @@ import { RedesComponent } from './components/redes/redes.component';
     ProyectosComponent,
     FooterComponent,
     LoginComponent,
+    HomeComponent,
+    LoginEnterComponent,
 
   ],
   imports: [
