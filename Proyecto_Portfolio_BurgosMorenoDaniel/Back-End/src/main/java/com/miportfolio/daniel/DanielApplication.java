@@ -1,13 +1,13 @@
-package com.portfolio.mbe;
+package com.miportfolio.daniel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MbeApplication {
+public class DanielApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MbeApplication.class, args);
+		SpringApplication.run(DanielApplication.class, args);
 	}
 
 }

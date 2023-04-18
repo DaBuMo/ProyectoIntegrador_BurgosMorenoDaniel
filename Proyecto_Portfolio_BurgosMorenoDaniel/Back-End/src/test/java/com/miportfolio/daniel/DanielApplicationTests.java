@@ -1,10 +1,10 @@
-package com.portfolio.mbe;
+package com.miportfolio.daniel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MbeApplicationTests {
+class DanielApplicationTests {
 
 	@Test
 	void contextLoads() {
