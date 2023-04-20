@@ -1,4 +1,4 @@
-package com.miportfolio.daniel.Entity;
+package com.miportfolio.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

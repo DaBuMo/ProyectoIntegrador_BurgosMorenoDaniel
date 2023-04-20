@@ -1,9 +1,9 @@
-package com.miportfolio.daniel.Service;
+package com.miportfolio.Service;
 
 
-import com.miportfolio.daniel.Entity.Persona;
-import com.miportfolio.daniel.Interface.PersonaService;
-import com.miportfolio.daniel.Repository.PersonaRepositorio;
+import com.miportfolio.Entity.Persona;
+import com.miportfolio.Interface.PersonaService;
+import com.miportfolio.Repository.PersonaRepositorio;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

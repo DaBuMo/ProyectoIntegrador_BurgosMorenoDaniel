@@ -1,7 +1,7 @@
-package com.miportfolio.daniel.Controller;
+package com.miportfolio.Controller;
 
-import com.miportfolio.daniel.Entity.Persona;
-import com.miportfolio.daniel.Interface.PersonaService;
+import com.miportfolio.Entity.Persona;
+import com.miportfolio.Interface.PersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
