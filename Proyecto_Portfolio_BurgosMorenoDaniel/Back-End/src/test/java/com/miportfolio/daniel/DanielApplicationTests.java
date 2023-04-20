@@ -1,4 +1,4 @@
-package com.portfolio.daniel;
+package com.miportfolio.daniel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.miportfolio.Interface;
+package com.miportfolio.daniel.Interface;
 
-import com.miportfolio.Entity.Persona;
+import com.miportfolio.daniel.Entity.Persona;
 import java.util.List;
 
 public interface PersonaService 

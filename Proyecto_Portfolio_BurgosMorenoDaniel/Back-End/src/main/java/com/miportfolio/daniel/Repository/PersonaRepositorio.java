@@ -1,6 +1,6 @@
-package com.miportfolio.Repository;
+package com.miportfolio.daniel.Repository;
 
-import com.miportfolio.Entity.Persona;
+import com.miportfolio.daniel.Entity.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
