@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login-enter',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class LoginEnterComponent {
 
+  constructor(private router:Router) {}
+
+  register()
+  {
+    this.router.navigate(['/register'])
+  }
 }

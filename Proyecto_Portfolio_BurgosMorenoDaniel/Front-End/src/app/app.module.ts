@@ -22,6 +22,7 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { RedesComponent } from './components/redes/redes.component';
 import { HomeComponent } from './components/home/home.component';
 import { LoginEnterComponent } from './components/login-enter/login-enter.component';
+import { LoginRegisterComponent } from './components/login-register/login-register.component';
 // Agregamos el Http Client
 
 
@@ -46,6 +47,7 @@ import { LoginEnterComponent } from './components/login-enter/login-enter.compon
     LoginComponent,
     HomeComponent,
     LoginEnterComponent,
+    LoginRegisterComponent,
 
   ],
   imports: [
